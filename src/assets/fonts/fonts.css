@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Oniks';
+	font-weight: 400;
+	font-style: normal;
+	src: url('./Oniks.woff2');
+        url('./Oniks.woff')
+}
