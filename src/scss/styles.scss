@@ -2,11 +2,11 @@
 @import './global/mixins';
 @import './global/variables';
 @import './global/vendor';
-@import './global/extends';
 @import './global/global';
 @import './global/layout';
 
 @import "./components/socials";
+@import "./components/modal";
 
 @import './components/header';
 @import './components/footer';
